@@ -1,13 +1,12 @@
 package dyds.tp1.tests;
 
-import static org.junit.Assert.*;
-
+import dyds.tp1.ej2.AuditTransfMonet;
+import dyds.tp1.ej2.ConexionMail;
+import dyds.tp1.ej2.Mail;
+import dyds.tp1.ej2.Transferencia;
 import org.junit.Test;
 
-import ayds.tp1.ej2.AuditTransfMonet;
-import ayds.tp1.ej2.ConexionMail;
-import ayds.tp1.ej2.Mail;
-import ayds.tp1.ej2.Transferencia;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Ej2Test {
 

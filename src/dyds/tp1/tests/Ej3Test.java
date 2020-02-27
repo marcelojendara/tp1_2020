@@ -1,12 +1,13 @@
 package dyds.tp1.tests;
 
-import static org.junit.Assert.assertEquals;
+import dyds.tp1.ej3.Cliente;
+import dyds.tp1.ej3.Localidad;
+import dyds.tp1.ej3.LogicaClientes;
+import org.junit.Test;
 
 import java.util.List;
 
-import org.junit.Test;
-
-import ayds.tp1.ej3.*;
+import static org.junit.Assert.assertEquals;
 
 public class Ej3Test {
 
